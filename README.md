@@ -46,7 +46,7 @@ Here's a walkthrough of implemented user stories:
 > `![Video Walkthrough](walkthrough.gif)` 
 > 
 
-![Video Walkthrough](http://prntscr.com/babok1)
+![Video Walkthrough](http://image.prntscr.com/image/2b785fc9f48249128f2d4a20bc321494.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
