@@ -1,23 +1,16 @@
 # Pre-work - Myblog
 
-> HINT: Please
-> - include this README.md in your project and fill out the information. 
-> - remove the `README.rdoc` file that Rails generates. 
-> - remove all the HINT blocks in this file.
-
 MyBlog is a Ruby on Rails blog application.
 
 Submitted by: Dung Phan
 
 Time spent: 13 hours spent in total
 
-URL: **Insert your Heroku URL here**
+URL: sheltered-atoll-87867.herokuapp.com ## I don't know why this link not work(will re-update)
 
 ## User Stories
 
 The following **required** functionality is complete:
-
-> HINT: mark the items you completed with [x]
 
 * [x] User can create a new post, formatted using the Markdown language.
 * [x] User can edit an existing post.
@@ -32,7 +25,6 @@ The following **optional** features are implemented:
 * [ ] User can leave a comment on a post.
 * [ ] User can add "tags" to a post, and filter posts by tag. 
 
-> HINT: if you are unsure how to implement the Search feature, you can Google how to implement a simple search form. For example, one of the sites you will find is [this](http://www.jorgecoca.com/buils-search-form-ruby-rails/)
 
 The following **additional** features are implemented:
 
@@ -42,9 +34,6 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-> HINT: You can put a `walkthrough.gif` file in your project folder, add to git, and use the following syntax to embed it:  
-> `![Video Walkthrough](Prework.gif)` 
-> 
 
 ![Video Walkthrough](https://github.com/dungphanx/Myblog/blob/master/Prework.gif)
 
