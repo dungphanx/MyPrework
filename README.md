@@ -43,10 +43,10 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 > HINT: You can put a `walkthrough.gif` file in your project folder, add to git, and use the following syntax to embed it:  
-> `![Video Walkthrough](walkthrough.gif)` 
+> `![Video Walkthrough](Prework.gif)` 
 > 
 
-![Video Walkthrough](http://image.prntscr.com/image/2b785fc9f48249128f2d4a20bc321494.gif)
+![Video Walkthrough](https://github.com/dungphanx/Myblog/blob/master/Prework.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
