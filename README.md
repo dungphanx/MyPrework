@@ -6,7 +6,7 @@ Submitted by: Dung Phan
 
 Time spent: 13 hours spent in total
 
-URL: sheltered-atoll-87867.herokuapp.com ## I don't know why this link not work(will re-update)
+URL: http://sheltered-atoll-87867.herokuapp.com/articles
 
 ## User Stories
 
@@ -42,6 +42,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+- I have a lot of trouble when I tried to get acquainted with Ruby on Rails.
+- I using PC Window, some of gems are not working with Windows. My apps has error occurred frequently.
+- But Ruby on Rails so greate!
 
 ## License
 
