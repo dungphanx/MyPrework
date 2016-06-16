@@ -6,7 +6,7 @@ Submitted by: Dung Phan
 
 Time spent: 13 hours spent in total
 
-URL: http://sheltered-atoll-87867.herokuapp.com/articles
+URL: https://still-garden-46545.herokuapp.com
 
 ## User Stories
 
